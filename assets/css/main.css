@@ -254,8 +254,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-align: center;
 }
 .loader img{
-    -webkit-animation: fa-spin 2s infinite linear;
-    animation: fa-spin 2s infinite linear;
+   /* -webkit-animation: fa-spin 2s infinite linear;
+    animation: fa-spin 2s infinite linear;*/
 }
 .fa-spin {
 -webkit-animation: fa-spin 2s infinite linear;
